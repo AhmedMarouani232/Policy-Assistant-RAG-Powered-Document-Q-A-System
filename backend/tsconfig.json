@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+
+    "module": "nodenext",
+    "target": "esnext",
+    "types": ["node", "Multer"] , 
+    "esModuleInterop":true,
+    "moduleResolution" :"nodenext",
+    "allowImportingTsExtensions":true,
+    "allowSyntheticDefaultImports":true,
+    
+    "emitDeclarationOnly":true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "strict": true,
+    "jsx": "react-jsx",
+    "verbatimModuleSyntax": false,
+    "isolatedModules": true,
+    "noUncheckedSideEffectImports": true,
+    "moduleDetection": "force",
+    "skipLibCheck": true,
+  }
+}
