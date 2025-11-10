@@ -9,25 +9,40 @@ Backend: Node.js + Express API • Frontend: Nuxt 3 + Nuxt UI
 ## ✨ Features
 ### 🛠 Tech Stack
 Backend
-Backend:     Node.js + Express + TypeScript
+
+Framework:     Node.js + Express + TypeScript
+
 RAG:         LangChain.js + Chroma + Hugging Face
+
 LLM:         Groq (Llama 3.1 8B)
+
 Embeddings:  Hugging Face Inference API
+
 File Upload: Multer + pdf-parse
 
 Frontend
+
 Framework:   Nuxt 3 + Vue 3
+
 UI Library:  Nuxt UI
+
 Language:    TypeScript
 
 ### Feature	Description
 Document Upload	Supports .pdf and .txt files
+
 Smart Chunking	1000-char chunks with 200 overlap for optimal context
+
 Vector Search	Chroma + all-MiniLM-L6-v2 embeddings
+
 LLM Answers	Groq's llama3-8b (fast, free tier)
+
 Modern UI	Nuxt 3 frontend with seamless chat interface
+
 No Local Models	Cloud inference only
+
 Clean Architecture	Controllers → Services → Loaders
+
 Deploy-Ready	Works on Railway, Render, Vercel, Netlify
 
 
