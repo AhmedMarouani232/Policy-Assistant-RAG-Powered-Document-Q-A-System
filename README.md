@@ -1,4 +1,9 @@
-# Policy Assistant – RAG-Powered Document Q&A System
+
+# Policy 
+
+https://github.com/user-attachments/assets/465cb5b4-3a22-47eb-95be-06f4da3b826b
+
+Assistant – RAG-Powered Document Q&A System
 A production-ready, zero-install, cloud-powered RAG system that lets you upload policy documents and get accurate, cited answers with a modern web interface.
 
 ## 🌟 Overview
